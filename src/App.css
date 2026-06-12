@@ -1,0 +1,4 @@
+/* Custom styles for components and sub-sections */
+.app-content {
+  background-color: var(--light-bg);
+}
